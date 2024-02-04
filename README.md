@@ -17,7 +17,7 @@
  > To resolve this issue in this project we used ddd, and **nwidart/laravel-modules** is used to make it work.
 
 > **All you have to do to work with app is as following :**
->  1. Clone the source code from github
+>  1. Clone the source code from github [souce code](https://github.com/Behnamfe76/test-react.git)
 >  2. Install the dependencies using the following commands :
 >  `composer install`
 >  `npm install`
