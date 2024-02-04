@@ -1,0 +1,11 @@
+{
+    "name": "Post",
+    "alias": "post",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Domains\\Post\\App\\Providers\\PostServiceProvider"
+    ],
+    "files": []
+}

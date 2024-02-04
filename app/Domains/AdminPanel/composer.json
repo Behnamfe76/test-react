@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/adminpanel",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Domains\\AdminPanel\\": "",
+            "App\\Domains\\AdminPanel\\App\\": "app/",
+            "App\\Domains\\AdminPanel\\Database\\Factories\\": "database/factories/",
+            "App\\Domains\\AdminPanel\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Domains\\AdminPanel\\Tests\\": "tests/"
+        }
+    }
+}

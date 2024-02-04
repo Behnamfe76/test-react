@@ -1,0 +1,11 @@
+{
+    "name": "AdminPanel",
+    "alias": "adminpanel",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Domains\\AdminPanel\\App\\Providers\\AdminPanelServiceProvider"
+    ],
+    "files": []
+}
