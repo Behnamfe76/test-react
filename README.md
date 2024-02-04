@@ -2,15 +2,15 @@
 
 
 > **This is a testing project made of technologies as following :**
-> **BACKEND** : Laravel 10
-> **FRONTEND** : Inertia.js (react.js)
+> - **BACKEND** : Laravel 10
+> - **FRONTEND** : Inertia.js (react.js)
 
 > **Additional packages have been used as following :**
-> **Laravel-medialibrary** : Associate files with Eloquent models.
-> **Laravel-permission** : Associate users with roles and permissions
-> **nwidart/laravel-modules** : A Laravel package which was created to manage large Laravel app using modules. 
-> **laravel/breeze** : [Laravel Breeze](https://github.com/laravel/breeze) is a minimal, simple implementation of all of Laravel's [authentication features](https://laravel.com/docs/10.x/authentication), including login, registration, password reset, email verification, and password confirmation.
-> **pestphp/pest** : A testing framework for app's tests.
+> - **Laravel-medialibrary** : Associate files with Eloquent models.
+> - **Laravel-permission** : Associate users with roles and permissions
+> - **nwidart/laravel-modules** : A Laravel package which was created to manage large Laravel app using modules. 
+> - **laravel/breeze** : [Laravel Breeze](https://github.com/laravel/breeze) is a minimal, simple implementation of all of Laravel's [authentication features](https://laravel.com/docs/10.x/authentication), including login, registration, password reset, email verification, and password confirmation.
+> - **pestphp/pest** : A testing framework for app's tests.
 
  > **Application's architecture is as following :**
  > By default Laravel is based on MVC, but it's not optimized for large scale projects. Here Domain Driven Design (ddd) is used.
